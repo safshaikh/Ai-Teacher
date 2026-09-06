@@ -1,0 +1,29 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+*.log
+npm-debug.log*
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.chromadb/
+chroma_db/
+*.db
+
+# Environment & local state
+.env
+.env.local
+.env.development.local
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
